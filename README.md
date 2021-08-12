@@ -38,7 +38,7 @@
     <dependency>
         <groupId>com.logpolice</groupId>
         <artifactId>logpolice-spring-boot-starter</artifactId>
-        <version>1.2.2-hot</version>
+        <version>1.3.0-hot</version>
     </dependency>
     
 ```
